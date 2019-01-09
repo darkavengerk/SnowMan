@@ -6,3 +6,5 @@ public
 compiled
 *.swp
 .vscode
+package-lock.json
+config/secrets.js
